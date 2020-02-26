@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YLHn8SLtzTstIrm1MgxDhesANO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -17,10 +21,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/spring-framework" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582715118984</updated>
-      <workItem from="1582715120341" duration="786000" />
+      <workItem from="1582715120341" duration="940000" />
     </task>
     <servers />
   </component>
@@ -44,10 +48,10 @@
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
     <state x="602" y="294" width="744" height="514" key="FileChooserDialogImpl/48.28.1872.1052@48.28.1872.1052" timestamp="1582715398955" />
-    <state x="467" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1582715406216">
+    <state x="467" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1582724431022">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state x="467" y="131" width="1024" height="843" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582715406216" />
+    <state x="467" y="131" width="1024" height="843" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582724431022" />
     <state x="550" y="208" width="867" height="692" key="find.popup" timestamp="1582715975129">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
