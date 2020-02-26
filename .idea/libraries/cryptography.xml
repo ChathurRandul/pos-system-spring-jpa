@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="cryptography">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/cryptography" />
+      <root url="file://$PROJECT_DIR$/lib/hibernate" />
+      <root url="file://$PROJECT_DIR$/lib/jasper-reports" />
+      <root url="file://$PROJECT_DIR$/lib/jfoenix" />
+      <root url="file://$PROJECT_DIR$/lib/mysql" />
+      <root url="file://$PROJECT_DIR$/lib/spring-framework" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/spring-framework" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/cryptography" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/hibernate" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jasper-reports" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jfoenix" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/mysql" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/spring-framework" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/spring-framework" recursive="false" type="SOURCES" />
+  </library>
+</component>
